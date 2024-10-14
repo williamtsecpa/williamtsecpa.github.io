@@ -1,12 +1,7 @@
 [
   {
-    "name": "Github",
-    "link": "https://github.com/zerostaticthemes/jekyll-serif-theme",
-    "image": "images/social/github.svg"
-  },
-  {
-    "name": "Twitter",
-    "link": "https://twitter.com/zerostaticio",
-    "image": "images/social/twitter.svg"
+    "name": "Yelp",
+    "link": "https://www.yelp.com/biz/william-tse-cpa-houston",
+    "image": "images/social/yelp.svg"
   }
 ]
