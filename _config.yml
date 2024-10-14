@@ -1,6 +1,7 @@
-baseurl: '/jekyll-serif-theme/'
+baseurl: '/'
+url: 'http://williamtsecpa.github.io'
 permalink: pretty
-title: 'Jekyll Serif'
+title: 'William Tse, CPA'
 
 google_analytics_id: ""
 
